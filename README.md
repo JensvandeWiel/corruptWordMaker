@@ -4,6 +4,11 @@ It makes a word document that is corrupted.
 I have done this for school to buy some more time for essays.
 Watch out, your teachers will only fall for this a couple times so dont use it too often :wink:
 
+## Why?
+This app is made for ease of use, I was getting tired of right clicking and creating a file and editing it manually :blush:
+And You can even make it a really big file if you want to for some reason to annoy your teacher, i guess
+
+I [@JensvandeWiel](https://github.com/JensvandeWiel/) started this project to learn golang!
 
 
 ### :running: How to run:
