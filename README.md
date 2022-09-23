@@ -26,6 +26,8 @@ cd Downloads
 - Download the file that has windows and amd64 in it.
 - extract it and execute! (if you cannot extract it use [WINRAR](https://www.win-rar.com/))
 - Follow the instructions in the program, the file will be located in the same spot as the executeable is.
+- If your pc detects it as a virus you can [allow](https://pureinfotech.com/allow-blocked-file-app-microsoft-defender-antivirus/) it, do this at your own risk
+- we advise to check code before running it not only on this project but on every project
 
 ### :control_knobs: How to contribute:
 Fork the project, work on it and create a push request!
