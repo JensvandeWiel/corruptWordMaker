@@ -13,7 +13,7 @@ func main() {
 	fmt.Println("What do you want to name the file? (The name cannot contain spaces)")
 	fmt.Scanln(&fileName)
 	if fileName == "" {
-		panic("Please provide a name for the file")
+		panic("Please provide a name for the file!")
 	}
 	fileName = strings.TrimSpace(fileName)
 	fileName = fileName + ".docx"
